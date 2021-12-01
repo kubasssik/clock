@@ -60,7 +60,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 	display: grid;
 	grid-template-columns: repeat(7,1fr);
 	grid-template-rows:repeat(7,1fr) ;
-	border: 15px double rgba (7, 52, 255,0.5);
+	border: 15px double black;
 	outline: 5px double wheat;
 	text-shadow: 4px 4px 4px rgba(0, 0, 0,0.5);
 
