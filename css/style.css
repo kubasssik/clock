@@ -370,7 +370,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', end
 ************************************************************************
 **********************************************************************
 ***********************************************************************/
-@media( max-width: 300px){
+@media( max-width: 500px){
 .wrapper{
 	position: relative;
 	top: 120px;
